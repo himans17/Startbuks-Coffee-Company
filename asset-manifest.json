@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Startbuks-Coffee-Company/static/css/main.f836d7c1.css",
-    "main.js": "/Startbuks-Coffee-Company/static/js/main.1d181403.js",
-    "static/js/787.a9120f67.chunk.js": "/Startbuks-Coffee-Company/static/js/787.a9120f67.chunk.js",
-    "static/media/bootstrap.bundle.min.js.map": "/Startbuks-Coffee-Company/static/media/bootstrap.bundle.min.js.c7c70863269744b0755f.map",
-    "index.html": "/Startbuks-Coffee-Company/index.html",
-    "main.f836d7c1.css.map": "/Startbuks-Coffee-Company/static/css/main.f836d7c1.css.map",
-    "main.1d181403.js.map": "/Startbuks-Coffee-Company/static/js/main.1d181403.js.map",
-    "787.a9120f67.chunk.js.map": "/Startbuks-Coffee-Company/static/js/787.a9120f67.chunk.js.map"
+    "main.css": "/17.github.io/totalitycorp-frontend-challenge/static/css/main.f836d7c1.css",
+    "main.js": "/17.github.io/totalitycorp-frontend-challenge/static/js/main.e686e2d4.js",
+    "static/js/787.a9120f67.chunk.js": "/17.github.io/totalitycorp-frontend-challenge/static/js/787.a9120f67.chunk.js",
+    "static/media/bootstrap.bundle.min.js.map": "/17.github.io/totalitycorp-frontend-challenge/static/media/bootstrap.bundle.min.js.c7c70863269744b0755f.map",
+    "index.html": "/17.github.io/totalitycorp-frontend-challenge/index.html",
+    "main.f836d7c1.css.map": "/17.github.io/totalitycorp-frontend-challenge/static/css/main.f836d7c1.css.map",
+    "main.e686e2d4.js.map": "/17.github.io/totalitycorp-frontend-challenge/static/js/main.e686e2d4.js.map",
+    "787.a9120f67.chunk.js.map": "/17.github.io/totalitycorp-frontend-challenge/static/js/787.a9120f67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f836d7c1.css",
-    "static/js/main.1d181403.js"
+    "static/js/main.e686e2d4.js"
   ]
 }
