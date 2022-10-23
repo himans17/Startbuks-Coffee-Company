@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logos{
+    width: 60px;
+}
+
+.slider-image{
+    height: 350px;
+    position: relative;
+}
+
+
+.mid{
+    display: flex;
+}
+
+.button{
+    color: black;
+    text-decoration: none;
+}
+
+.sign-up{
+            border: 1px solid black;
+        margin-left: 55px;
+        border-radius: 25px;
+}
+.sign-up:hover{
+    background-color: beige;
+}
+
+.join-now{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+        margin-left: 25px;
+        border-radius: 25px;
+}
+
+.max{
+    margin: auto;
+    display: flex;
+    border-radius: 25px;
+    border-color: blue;
+        color: blue;
+}
+
+.max1 {
+    padding: 5px;
+    border-radius: 25px;
+    border-color: blue;
+    color: blue;
+}
+
+.max3 {
+    padding: 5px;
+    border-radius: 25px;
+    border-color: blue;
+    color: blue;
+    margin: auto;
+    display: flex;
+}
+
+.max4{
+padding: 5px;
+    border-radius: 25px;
+    border-color: blue;
+    color: blue;
+    margin: auto;
+        display: flex;
+}
+
+.list-style{
+    list-style: none;
+}
+
+.list-style li{
+    cursor: pointer;
+}
+
+.list-1{
+    margin: 20px;
+    list-style: none;
+}
+
+.list-0{
+    margin: 20px;
+    list-style: none;
+    font-size: 19px;
+    font-weight: bold;
+    color: black;
+}
+
+.menu{
+text-decoration: none;
+}
